@@ -35,6 +35,10 @@ Yiwen worked on classifying key words into three categories.
 Yatong and Yiwen collaborated on creating word clouds.
 
 
+#### Contact information
+If you have any questions, please contact Yatong at yatong@stanford.edu
+
+
 
 
 
